@@ -1,0 +1,14 @@
+# Course report is kept out of the repo
+ENSC 204 Final Project Report - Group 15.pdf
+
+# SolidWorks temp / lock files
+~$*
+*.swp
+*.~*
+*.bak
+*.sldlfp.bak
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
